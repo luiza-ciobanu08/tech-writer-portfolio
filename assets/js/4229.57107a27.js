@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunktech_writer_portfolio||=[]).push([[4229],{4229(e,r,t){t.d(r,{createCynefinServices:()=>i.t});var i=t(3486);t(1400)}}]);

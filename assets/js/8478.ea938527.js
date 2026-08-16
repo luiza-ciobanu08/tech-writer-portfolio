@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunktech_writer_portfolio||=[]).push([[8478],{8478(e,r,t){t.d(r,{createWardleyServices:()=>a.J});var a=t(8937);t(1400)}}]);

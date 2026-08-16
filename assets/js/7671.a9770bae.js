@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunktech_writer_portfolio||=[]).push([[7671],{7671(e,r,t){t.d(r,{createTreemapServices:()=>a.d});var a=t(4687);t(1400)}}]);
